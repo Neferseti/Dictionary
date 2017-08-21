@@ -1,0 +1,40 @@
+Inn	:	Tavern
+Incessant	:	Without pause or stop
+Boisterous	:	Full of energy;	Exuberant;	Violent
+Dishabille	:	Extreme casual or disorderly dress
+Natter	:	Talking without purpose
+Intimidate	:	To inspire and affect with fear;	To deter as by threats
+Ruminate	:	To meditate or ponder over
+Spurn	:	To reject disdainfully
+Disdain 	:	A feeling of contempt or scorn;	To regard someone or something with contempt
+Frown upon	:	To disapprove
+Convolute	:	To make unnecessarily complex
+Disconcert	:	To bring into confusion
+Ostentate	:	To show or exhibit boastingly
+Vehement	:	An intense concentration, power or force
+Umbrage	:	Feeling of anger or annoyance caused by something offensive;	To displease or cause offence
+Alms	:	Somethings given to the poor as the charity
+Indignation	:	An anger aroused by something perceived as an indignity, notably an offence or injustice
+Loathe	:	To hate or revile
+Revile 	:	To attack (someone) with abusive language
+Progeny	:	An offspring or descendent
+Smolder	:	To burn with no flame and little smoke (Can also be taken as as sign of repressed anger)
+Apprehend	:	To take or seize;	To anticipate something with anxiety
+Apprehensive	:	Perceptive or quick learn;	Anticipating something with anxiety or fear
+Camaraderie	:	Close friendship in a group of friends or teammates
+Forsake	:	To abandon or renounce
+Abate	:	To put an end to something
+Secular	:	Not specifically religious
+Sovereign	:	Exercising power of rule
+Subdue	:	To overcome, quiten or bring under control
+Trivial	:	Ignorable or of little significance/value
+Tumultuous	:	Noisy and disorderly
+Paraphrase	:	A restatement of a text in different words, often to clarify meaning
+Acknowledge	:	To admit the knowledge of
+Bygones	:	 Things that happened in the past
+Kaput	:	Out of order or not working
+Disparate	:	Essentially different in kind;	not able to be compared
+
+Commensurate	:	Corresponding in size or degree;	in proportion
+Maritime	:	Something connected with the sea
+Reconnaissance	:	Preliminary surveying or research
