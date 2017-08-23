@@ -38,3 +38,4 @@ Disparate	:	Essentially different in kind;	not able to be compared
 Commensurate	:	Corresponding in size or degree;	in proportion
 Maritime	:	Something connected with the sea
 Reconnaissance	:	Preliminary surveying or research
+Obfuscate	:	Make obscure, unclear or unintelligible
