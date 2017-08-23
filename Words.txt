@@ -39,3 +39,5 @@ Commensurate	:	Corresponding in size or degree;	in proportion
 Maritime	:	Something connected with the sea
 Reconnaissance	:	Preliminary surveying or research
 Obfuscate	:	Make obscure, unclear or unintelligible
+Subjugate	:	Bring under domination or control, especially by conquest
+Pandemic	:	(of a disease) prevalent over a whole country or the world
