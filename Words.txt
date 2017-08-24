@@ -34,6 +34,30 @@ Acknowledge	:	To admit the knowledge of
 Bygones	:	 Things that happened in the past
 Kaput	:	Out of order or not working
 Disparate	:	Essentially different in kind;	not able to be compared
+Vain	:	Narcissistic;	Futile
+Temperance	:	Abstinence from alcoholic drinks
+Ameliorate	:	Make (something bad or unsatisfactory) better
+Exacerbate	:	Make (a problem, bad situation or negative feeling) worse
+Confer	:	To talk together or discuss;	To grant as a possession or bestow
+Acclaim	:	To praise enthusiastically and publically
+Robust	:	Evincing strength
+Evince	:	To show or demonstrate
+Frugal	:	Avoiding unnecessary expenditure either of money or anything else which is to be used or consumed
+Thrift	:	The characteristics of using a minimum of something (especially money)
+Deem 	:	To judge
+Redeem	:	To set free by force;	To restore the honor;	atone
+Ephemeral	:	Lasting for a very short period of time
+Frivolous	:	Silly, especially at an inappropriate time, or in an inappropriate manner
+Imperious	:	Domineering(Dictatorial) or Arrogant
+Belligerent	:	Eager to fight
+Penitential	:	Pertaining to penance
+Penance 	:	A voluntary self imposed punishment for a sinful act or wrongdoing
+Intractable	:	Not easily controlled or governed
+Prolixity	:	The use of more words than are needed for clarity or precision
+Taciturn	:	Silent
+Pellucidity	:	Transparency
+Extraneous	:	Not belonging to, or dependent upon, a thing
+Mitigate	:	Alleviate
 
 Commensurate	:	Corresponding in size or degree;	in proportion
 Maritime	:	Something connected with the sea
@@ -46,3 +70,4 @@ Antagonism	:	Active hostility and opposition
 Embargo	:	An official ban on trade or other commercial activity with a particular country
 Debilitate	:	Make very weak and infirm
 Nefarious	:	Wicked or criminal
+Ire 	:	Anger
