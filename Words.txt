@@ -58,6 +58,62 @@ Taciturn	:	Silent
 Pellucidity	:	Transparency
 Extraneous	:	Not belonging to, or dependent upon, a thing
 Mitigate	:	Alleviate
+Shrewd	:	Having or showing sharp powers of judgement;	astute
+Savvy	:	Shrewd;	Well informed;	Perceptive
+Hackneyed	:	Repeated too often
+Placid	:	Calm and Quiet
+Indecorous	:	Improper;	Immodest
+Indespensable	:	Absolutely necessary or requisite
+Remorse	:	A feeling of regret or sadness for doing wrong or sinning
+Flout	:	To express contempt for the rules and laws by words or actions
+Perforate	:	To pierce or penetrate
+Chauvinism	:	Exaggerated or aggressive patriotism;	Excessive or prejudiced support for one's own cause, group or sex
+Chivalrous	:	Honourable, especially to women
+Fortuitous	:	Happening by chance;	coincidental or accidental
+Empathy	:	The intellectual identification of the thoughts, feelings or state of another person
+Prodigal	:	Spending money or using resources freely and recklessly (Opposite of frugal)
+Prodigy	:	A young person with exceptional qualities or abilities
+Compassion	:	Deep awareness of the suffering of another, coupled with the wish to relieve it
+Capricious	:	Impulsive and unpredictable
+Disposition	:	A person's inherent quality of mind and character;	The way in which something is places or arranged, especially in relation to other
+Skirt	:	To be on or form the border of
+Fastidious	:	Very attentive to and concerned about accuracy and details;	Very concerned about matter of cleanliness
+Simulate	:	To encourage into action
+Vociferous	:	Clamorous
+Impetuous	:	Making arbitrary decisions, especially in an impulsive and forceful manner
+Misnomer	:	A use of term that is misleading
+Debunk	:	Expose the falseness of hallowness of an idea or belief
+Elicit	:	To evoke
+Cynic	:	A person who believes that people are motivated purely by self-interest rather than acting for an honorable or unselfish reason
+Audacious	:	Showing willingness to take bold risk;	Impudent
+Slander	:	A false or unsupported, malicious statement, especially one which is injurious to person's reputation
+Conciliate	:	Placate
+Livid	:	Furiously angry;	Having a dark bluish appearance
+Solicit	:	Ask for or try to obtain(something) for someone
+Simulate	:	To model or replicate
+Recalcitrant	:	Marked by stubborn unwillingness to obey authority
+Ethnic	:	Of or relating to a group of people having common racial, national, religious or cultural origins
+Conspicuous	:	Obvious or easy to notice
+Defer	:	To delay or postpone;	To submit to the opinion or desire of another in respect to their judgement or authority
+Impunity	:	Exemption from punishment or freedom from the injurious consequence of an action
+Preclude	:	Remove the possibility of or rule out
+Flamboyant	:	Showy, bold or audacious in behaviour, appearance etc
+Anachronism	:	A thing belonging or appropriate to a period other than that in which it exists, especially a thing which is conspicuosly old fashioned
+Rendition	:	A representation or reproduction of something
+Stigma	:	A mark of disgrace associated with a particular circumstance, quality or person
+Aesthetic	:	Concerned with beauty or the appreciation of beauty
+Ratify	:	To give formal consent to, or making officially valid
+Ensue	:	Happen or occur afterward or as a result
+Scrupulous	:	Diligent, thorough and extremely attentive to details
+Reproach	:	To criticize or rebuke someone
+Reprimand	:	A formal expression or disapproval or rebuke
+Pompous	:	Having or exhibiting self importance
+Churlish	:	Rude in a mean spirited and surly(arrogant) way
+Innocuous	:	Harmless
+Lurid	:	Shocking;	Horrifying
+Metaphor	:	A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable
+Copious 	:	Great in quantity or number; Profuse
+
 
 Commensurate	:	Corresponding in size or degree;	in proportion
 Maritime	:	Something connected with the sea
