@@ -127,3 +127,5 @@ Embargo	:	An official ban on trade or other commercial activity with a particula
 Debilitate	:	Make very weak and infirm
 Nefarious	:	Wicked or criminal
 Ire 	:	Anger
+
+Purgatory	:	A situation where suffering is endured, particular as part of a process of redemption.
