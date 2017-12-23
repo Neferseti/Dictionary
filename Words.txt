@@ -130,3 +130,4 @@ Ire 	:	Anger
 
 Purgatory	:	A situation where suffering is endured, particular as part of a process of redemption.
 Fervent	:	Enthusiastic
+Timid	:	Lacking confidence and courage
