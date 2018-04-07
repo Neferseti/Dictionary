@@ -120,6 +120,24 @@ Entrenched	:	Fixed firmly and securely
 Vanquish	:	Defeat thorougly
 Voluble	:	Loquacious or fluent in speaking
 Bellicose	:	Belligerent
+Intransigent	:	Unwilling or refusing to change one's view or to agree about something
+Guile	:	Sly or cunning intelligence
+Cunning 	:	Having or showing skills in achieving one's ends by deceit or evasion
+Blatant	:	Very obvious
+Plunder	:	Steal goods from (a place or person), typically using force and in a time of war or civil disorder
+Profound	:	(of a state, quality or emotion) very great or intense
+Perfunctory	:	(of an action) carried out without real interest, feeling or effort
+Virtue	:	Behaviour showing high moral standards
+Haven	:	A place of safety or refuge
+Instigate	:	Bring about or initiate (an action or event)
+Concede 	:	Admit or agree that something is true after first denying or resisting it; to surrender
+Indigenous	:	Originating or occuring in a particular place
+Ingenuous	:	To be naive or innocent
+Whim	:	A sudden desire or change of mind, especially one that is unusual or unexplained
+Undermine	:	Lessen the effectiveness, power or ability of, especially gradually or insidiously
+Construe 	:	 Interpret (a word or action) in a particular way
+Collude	:	Conspire
+Spurious	:	Plausible but fake;	False
 
 
 
