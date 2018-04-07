@@ -138,7 +138,46 @@ Undermine	:	Lessen the effectiveness, power or ability of, especially gradually 
 Construe 	:	 Interpret (a word or action) in a particular way
 Collude	:	Conspire
 Spurious	:	Plausible but fake;	False
-
+Mendacity	:	Untruthfulness
+Avarice	:	Extreme greed for wealth or material gain
+Prevaricate	:	Speak or act in an evasive way
+Baseness	:	Lack of moral principles
+Palatable	:	Acceptable to the taste or mind
+Agnosticism	:	The view that absolute truth or ultimate certainty is unattainable, especially regarding knowledge not based on experience or perceivable phenomena.
+Levy	:	To impose (a tax, fee or fine)
+Provident	:	Making or indicative of timely preparation for the future
+Prospect	:	The possibility or likelihood of some future event occuring
+Predilection	:	A strong liking
+Dismal	:	Gloomy, Bleak (Without colour) or Depressing
+Obsequious	:	Obedient or attentive to an excessive or servile degree
+Eschew	:	Deliberately avoid using;	abstain from 
+Apathetic	:	Marked by lack of interest
+Bereave	:	Be deprived of a close relation or friend through their death
+Repudiate	:	Refuse to accept or reject
+Capitulate	:	Cease to resist an opponent or an unwelcome demand;	yield
+Recapitulate	:	Summarise and state again the main points
+Facetious	:	Treating serious issues with deliberately inappropriate humor
+Arcane	:	Understood by few, mysterious or secret
+Anoint	:	Smear or rub something with a substance
+Artless	:	Without guile or deception
+Vex	:	Make someone feel annoyed, frustrated or worried, especially with trivial matter
+Ebullient	:	Cheerful and full of energy
+Fungible	:	Able to be substituted for something of equal value or utility.
+Dejected	:	Sad and depressed
+Morose	:	Sullen (ill-tempered)
+Glum	:	Looking or feeling dejected; Morose
+Garrulous	: Excessive talkative, especially on trivial matters 
+Munificent	:	Characterized by or displaying great generosity
+Erudite	:	Having or showing great knowledge or learning
+Insular	:	Ignorant of or uninterested in cultures, ideas or people outside one's own experience
+Perturb	:	Make (someone) anxious and unsettled
+Deplore	:	Feel or express strong condemnation of (something)
+Baleful	:	Threatening or foreshadowing evil or tragic development
+Abrogate	:	To end or cancel (something) in a formal and official way
+Ravish	:	Fill (someone) with intense delight
+Desolate	:	Deserted and devoid of inhabitants
+Frolic	:	Play or move about in a cheerful and lively way
+Elusive	:	Difficult to find, catch or achieve
 
 
 
