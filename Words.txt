@@ -28,6 +28,7 @@ Secular	:	Not specifically religious
 Sovereign	:	Exercising power of rule
 Subdue	:	To overcome, quiten or bring under control
 Trivial	:	Ignorable or of little significance/value
+
 Tumultuous	:	Noisy and disorderly
 Paraphrase	:	A restatement of a text in different words, often to clarify meaning
 Acknowledge	:	To admit the knowledge of
@@ -58,6 +59,7 @@ Taciturn	:	Silent
 Pellucidity	:	Transparency
 Extraneous	:	Not belonging to, or dependent upon, a thing
 Mitigate	:	Alleviate
+
 Shrewd	:	Having or showing sharp powers of judgement;	astute
 Savvy	:	Shrewd;	Well informed;	Perceptive
 Hackneyed	:	Repeated too often
@@ -78,7 +80,7 @@ Capricious	:	Impulsive and unpredictable
 Disposition	:	A person's inherent quality of mind and character;	The way in which something is places or arranged, especially in relation to other
 Skirt	:	To be on or form the border of
 Fastidious	:	Very attentive to and concerned about accuracy and details;	Very concerned about matter of cleanliness
-Simulate	:	To encourage into action
+Stimulate	:	To encourage into action
 Vociferous	:	Clamorous
 Impetuous	:	Making arbitrary decisions, especially in an impulsive and forceful manner
 Misnomer	:	A use of term that is misleading
@@ -88,6 +90,7 @@ Cynic	:	A person who believes that people are motivated purely by self-interest 
 Audacious	:	Showing willingness to take bold risk;	Impudent
 Slander	:	A false or unsupported, malicious statement, especially one which is injurious to person's reputation
 Conciliate	:	Placate
+
 Livid	:	Furiously angry;	Having a dark bluish appearance
 Solicit	:	Ask for or try to obtain(something) for someone
 Simulate	:	To model or replicate
@@ -118,6 +121,7 @@ Acumen	:	Astuteness
 Didactic	:	Intended to teach, particularly in having moral instruction as an ulterior motive
 Entrenched	:	Fixed firmly and securely
 Vanquish	:	Defeat thorougly
+
 Voluble	:	Loquacious or fluent in speaking
 Bellicose	:	Belligerent
 Intransigent	:	Unwilling or refusing to change one's view or to agree about something
@@ -148,6 +152,7 @@ Levy	:	To impose (a tax, fee or fine)
 Provident	:	Making or indicative of timely preparation for the future
 Prospect	:	The possibility or likelihood of some future event occuring
 Predilection	:	A strong liking
+
 Dismal	:	Gloomy, Bleak (Without colour) or Depressing
 Obsequious	:	Obedient or attentive to an excessive or servile degree
 Eschew	:	Deliberately avoid using;	abstain from 
