@@ -1,41 +1,38 @@
-Surfeit
-Sycophant
-Surreptitious
-Svelte
-Sybarite
-Syndicate
+Surfeit		-	An excess amount of something
+Sycophant		-	A person who acts in a servile or obsequious manner in order to gain advantage
+Surreptitious		-	Stealthy, Covert, Hidden
+Svelte		-	Slender and Elegant 
+Sybarite		-	A person who is self indulgent in their fondness of sensuous luxury
+Syndicate		-	A group of individual or organization combined to promote a common interest
+Subjugate		-	Bring under domination or control
+Subterfuge 		-	Deceit used in order to achieve one's goal 
+Succour		-	Assistance and support in times of hardship and distress
+Succumb		-	Fail to resist pressure, temptation or some other negative force
+Suffrage	-	The right to vote in political election
+Supercilious		-	Behaving or looking as though one think one is superior than other
+Stoic		-	A person who can endure pain or hardship without showing their feelings or complaining
+Stymie		-	Prevent or hinder the progress of
+Stalwart		-	Loyal, Reliable and hardworking
+Stentorian		-	Loud and Powerful
+Soliloquy		-	The act of a character speaking to themselves so as to reveal their thoughts to the audience
+Soporific		-	Tending to induce drowsiness or sleep 
+Specious 		-	Superficially plausible, but actually wrong
+Skulduggery		-	underhand, unscrupulous or dishonest behavious or activities
 
-Subjugate
-Subterfuge 
-Succour
-Succumb
-Suffrage
-Supercilious
-Stoic
-Stymie
-Stalwart
-Stentorian
 
-Soliloquy
-Soporific
-Specious
-Skulduggery
 Sloth
 Sobriquet
-
 Sinecure
 Shibboleth
 Servile
 Shoddy
 Scourge
 Scuttle
-
 Serendipity
 Sequester
 Sedulous
 Secede , Accede, Concede
 Sedentary
-
 Sanctimonious
 Sardonic
 Sartorial
@@ -44,20 +41,19 @@ Scion
 Scoff
 Salutary
 
+
 Salutary
 Scion
 Sagacious
 Salacious
 Salubrious
 Sacrilege
-
 Risque
 Ruminate
 Rhetoric
 Reticent
 Rescind
 Reprobate.
-
 Renege , Renegade
 Repertoire
 Reprobate
@@ -65,14 +61,14 @@ Repudiate
 Repugnant
 Rescind
 Resilient
-
 Recreant
+
+
 Rectitude
 Raucous
 Recalcitrant/Refractory
 Recidivism
 Recondite
-
 Raconteur
 Rancour
 Rapprochement
@@ -80,7 +76,6 @@ Ratiocination
 Rampage
 Rancid
 Rapacious
-
 Quack
 Quagmire
 Qualms
@@ -89,6 +84,7 @@ Quell
 Quiescent
 Quintessential
 Quizzical
+
 
 Punctilious
 Punitive
@@ -99,7 +95,6 @@ Puerile
 Pugnacious
 Puissant
 Pulchritude
-
 Protean
 Protege
 Providence
@@ -107,16 +102,16 @@ Propensity
 Propinquity
 Prosaic
 Proscribe
-
 Prodigy
 Progenitor
 Progeny
 Pristine
+
+
 Probity
 Proclivity
 Procrastination
 Prescience
-
 Predilection
 Precarious
 Precipice
@@ -125,7 +120,6 @@ Portend
 Potpourri
 Pragmatic
 Posthumous
-
 Plebiscite / plebian
 Podium
 Poignant
@@ -134,6 +128,8 @@ Pique / piquant
 Pillage
 Placate
 Placid
+
+
 Plagiarism
 Platitude
 Petulant
@@ -141,14 +137,12 @@ Petrified
 Perspicacious 
 Perspicuous
 Peruse
-
 Permeate
 Penitent
 Penchant
 Penury
 Parley
 Paraphernalia
-
 Panacea
 Panache    (chk pronunciation) 
 Paradigm
@@ -156,6 +150,7 @@ Pacifist
 Pageant
 Palliate
 Pallaver
+
 
 Oust
 Ostracised
@@ -165,7 +160,6 @@ Ominous
 Onus
 Ostentatious
 Onerous
-
 Obstreperous
 Obviate
 Odious
@@ -173,12 +167,13 @@ Obfuscate
 Obdurate
 Obsequious
 Obloquy
-
 Nostrum
 Noxious
 Numismatist
 Nemesis
 Neophyte
+
+
 Nepotism
 Niche
 Nihilism
@@ -186,14 +181,12 @@ Nadir
 Narcissist
 Necromancy
 Nefarious
-
 Myriad
 Musty Vs misty
 Murky
 Mulct
 Mountebank
 Mortify
-
 Moribund
 Mores
 Monotheism
@@ -202,6 +195,8 @@ Mnemonic
 Misogynist
 Misdemeanor
 
+
+
 Misanthrope
 Mercurial
 Milieu
@@ -209,7 +204,6 @@ Mendicant
 Mendacious
 Melange, medley
 Melee
-
 Maestro
 Maelstrom
 Machiavellian
@@ -220,15 +214,15 @@ Masochist
 Martinet
 Maxim
 Maverick
-
 Loquacious
 Lugubrious
 Ludicrous
+
+
 Lucid
 Limpid
 Limbo
 Legerdemain
-
 Lampoon
 Larceny
 Largesse
@@ -238,18 +232,17 @@ Lectern
 Labyrinth
 Lackadaisical
 Laconic
-
 Kindle
 Kindred
 Kleptomania
 Knead
 Kith
-
 Jaunty
 Jejune
+
+
 Juggernaut
 Jurisprudence
-
 Jeopardy
 Juxtapose
 Jaundiced
@@ -260,7 +253,6 @@ Invidious
 Inveigle
 Inured
 Intrepid
-
 Insurrection
 Innuendo
 Insipid
@@ -270,6 +262,7 @@ Ingenuous/ ingenious
 Ingrate
 Innocuous
 
+
 Influx
 Ingrate
 Ingratiate
@@ -278,7 +271,6 @@ Inequity
 Infidel
 Incumbent
 Indict
-
 Incendiary
 Inchoate
 Incipient
@@ -289,9 +281,10 @@ Impunity
 Impervious
 Impetus
 Impinge
-
 Implicit
 Importune
+
+
 Impale
 Impecunious
 Impede
@@ -300,7 +293,6 @@ Idiosyncrasy
 Ignoramus
 Imbue
 Iconoclast
-
 Hustings
 Hyperbole
 Hypochondriac
@@ -308,16 +300,16 @@ Hubris
 Histrionic
 Hegemony
 Heretic
-
 Harangue
 Harbinger
 Heckle
 Hedonism
 Hackles
+
+
 Hackneyed
 Haggle
 Halcyon
-
 Gumption
 Gullible
 Guile
@@ -325,7 +317,6 @@ Grandiloquent
 Gratis/ gratuitous
 Grimace
 Gregarious
-
 Goad
 Gourmand
 Gourmet
@@ -334,15 +325,15 @@ Germinal
 Glib
 Gerrymander
 Gauche
-
 Genre
 Genuflect
+
+
 Germane
 Galvanize
 Gargantuan
 Garrulous
 Gasconade
-
 Fortuitous
 Fracas
 Fraught
@@ -351,7 +342,6 @@ Flay
 Flux
 Foray
 Flippant
-
 Fiduciary
 Fiasco
 Filial
@@ -359,11 +349,12 @@ Faux Pas (pronunciation too)
 Feint
 Fetid
 Fetish
+
+
 Facetious
 Fait accompli
 Fatalism
 Fastidious
-
 Exorcise
 Exotic
 Expedient
@@ -373,7 +364,6 @@ Eulogy
 Euphemism
 Eschew
 Espouse
-
 Ephemeral
 Epicure
 Epitome
@@ -381,9 +371,10 @@ Equanimity
 Enervate
 Enigma
 Ennui (pronunciation)
+
+
 Ensconce
 Endue
-
 Empirical
 Encomium
 Elixir
@@ -395,7 +386,6 @@ Ebullient
 Eccentric
 Edify
 Educe
-
 Despondent
 Desultory
 Depravity
@@ -403,10 +393,11 @@ Demagogue
 Demotic
 Deign
 Decrepit
+
+
 Deference
 Debauched
 Daub
-
 Cynosure
 Curmudgeon
 Culpable
@@ -415,7 +406,6 @@ Craven
 Credence
 Crestfallen
 Cringe
-
 Coruscate
 Coterie
 Contagion
@@ -425,10 +415,11 @@ Covert
 Corporeal
 Convivial
 Contrite
+
+
 Contumacious
 Conundrum
 Clemency
-
 Clairvoyant
 Clandestine
 Circumspect
@@ -437,7 +428,6 @@ Charlatan
 Charisma
 Cherubic
 Chicanery
-
 Cede
 Chaff
 Chagrin
@@ -447,8 +437,9 @@ Caucus
 Carp
 Caprice
 Calumny
-Canard
 
+
+Canard
 Burlesque
 Buttress
 Bowdlerise
@@ -456,7 +447,6 @@ Brazen
 Bucolic
 Blithe
 Bourgeois
-
 Betenoir (e)
 Bicameral
 Bigotry
@@ -467,16 +457,16 @@ Beatific
 Badinage
 Bandy
 Balmy
-
 Avarice
 Awry
+
+
 Axiom
 Atrophy
 August
 Asperity
 Assay
 Assuage
-
 Arduous
 Arraign
 Arrogate
@@ -486,17 +476,17 @@ Apostate
 Anathema
 Animadvert
 Anodyne
-
 Amnesty
 Anachronism
 Amigo
 Amazon (😉)
 Ameliorate
+
+
 Agnostic
 Affable
 Ad nauseam
 Aegis
-
 Acme
 Acumen
 Actuate
@@ -509,4 +499,3 @@ Abstemious
 Abase
 Aberration
 Abeyance
-
