@@ -20,26 +20,27 @@ Specious 		-	Superficially plausible, but actually wrong
 Skulduggery		-	underhand, unscrupulous or dishonest behaviour or activities
 
 
-Sloth
-Sobriquet
-Sinecure
-Shibboleth
-Servile
-Shoddy
-Scourge
-Scuttle
-Serendipity
-Sequester
-Sedulous
-Secede , Accede, Concede
-Sedentary
-Sanctimonious
-Sardonic
-Sartorial
-Schism
-Scion
-Scoff
-Salutary
+Sloth 		-	Reluctance to work or make an effort; laziness
+Sobriquet		-	a person's nickname
+Sinecure		-	a position requiring little or no work but giving the holder status or financial benefits
+Shibboleth		-	A custom, principle or belief distinguishing a particular class or group of people, especially a long-standing one regarded as 							outmoded or no longer important
+Servile 		-	Obsequious
+Shoddy		-	Badly made or done
+Scourge		-	A person or thing that causes a great trouble or suffering
+Scuttle		-	Run hurriedly or furtively with short quick steps
+Serendipity		-	The occurrence and development of events by chance in a happy or benefical way; fluke; fortuitous
+Sequester		-	isolate or hide away
+Sedulous		-	showing dedication and diligence
+Secede		-	Withdraw formally from an organisation
+Accede		-	Agree to a demand, request or treaty
+Sedentary		-	Somewhat inactive
+Sanctimonious		-	Making a show of being morally superior to others
+Sardonic		-	Grimly mocking or cynical
+Sartorial		-	Relating to tailoring, clothes, or style of dress
+Schism		-	A split or division between strongly oppossed sections or parties, caused by difference in opinions or beliefs
+Scion 		-	a descendant of a notable family 
+Scoff		-	speak to someone or about something in a scornfully derisive or mocking way
+Salutary		-	producing good effects or beneficial 
 
 
 Salutary
